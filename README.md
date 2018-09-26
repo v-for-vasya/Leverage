@@ -1,2 +1,2 @@
-# Leverage
-Optimizing compounded growth under finite distributions with leverage. An explanation, example, and demo are available at http://www.wduwant.com/stochastic_simulation/leverage
+# Compounding Time Series Under Uncertainty
+Optimizing compounded growth under finite distributions with leverage through the Kelly criterion. An explanation, example, and Python, Excel, & Matlab demo are available at http://www.wduwant.com/stochastic_simulation/leverage
